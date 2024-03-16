@@ -1,9 +1,11 @@
 ctextemp*
-*.docx
-*.pdf
-*.eps
 *.aux
 *.dvi
 *.log
 *.out
 *.ps
+*.docx
+*.pdf
+*.jpg
+*.png
+*.zip

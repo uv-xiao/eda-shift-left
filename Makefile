@@ -16,3 +16,10 @@ all: $(PDF_FILES)
 clean:
 	cmd /C del sciscn.pdf 
 	cmd /C del $(FINAL_NAME).pdf
+	cmd /C del ctex*
+	cmd /C del sciscn.aux
+	cmd /C del sciscn.dvi
+	cmd /C del sciscn.log
+	cmd /C del sciscn.out
+	cmd /C del sciscn.ps
+	
